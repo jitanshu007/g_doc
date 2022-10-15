@@ -1,12 +1,12 @@
 
 import './App.css';
+import Navbar from './commponet/Navbar';
 
 
 function App() {
   return (
    <>
-   <h1>hello 🖐️_changed</h1>
-  
+<Navbar></Navbar>
    </>
   );
 }
