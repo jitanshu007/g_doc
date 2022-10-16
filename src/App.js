@@ -7,7 +7,8 @@ function App() {
   return (
    <>
 <Navbar>
-  
+  <h1> Ankit</h1>
+  <p>lorem50 efjnjkew neijfnsjfnjejg fcwesfwe</p>
 </Navbar>
 <h1> Ankit Gondha </h1>
    </>
