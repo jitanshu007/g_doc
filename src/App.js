@@ -8,6 +8,7 @@ function App() {
    <>
 <Navbar>
   <h1> Ankit</h1>
+  <p>lorem50 efjnjkew neijfnsjfnjejg fcwesfwe</p>
 </Navbar>
    </>
   );
