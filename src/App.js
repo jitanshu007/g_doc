@@ -9,6 +9,7 @@ function App() {
 <Navbar>
   
 </Navbar>
+<h1> Ankit Gondha </h1>
    </>
   );
 }
