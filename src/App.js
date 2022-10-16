@@ -7,7 +7,7 @@ function App() {
   return (
    <>
 <Navbar>
-  
+  <h1> Ankit</h1>
 </Navbar>
    </>
   );
